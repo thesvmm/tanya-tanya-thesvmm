@@ -1,7 +1,5 @@
 # Tanya-Tanya Adit
 
----
-
 ### Overview
 👋🏻 Welcome to Tanya-Tanya Adit, the place where you can ask me anything and i'll (try to) answer it! So, this repo is basically a question box.
 
